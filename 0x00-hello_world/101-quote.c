@@ -1,7 +1,9 @@
-i#include <stdio.h>
+#include <stdio.h>
 
-/*
- * Using another method to print 
+/**
+ * main - Entry point
+ *
+ * Return: 0 (success)
  */
 int main(void)
 {
